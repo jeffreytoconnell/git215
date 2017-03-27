@@ -1,0 +1,33 @@
+body {
+    background-color: #2F1C1E;
+    color: #542C1B;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+#wrapper {
+    background-color: #FDFDFD;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: #364437;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+nav {
+    font-weight: bold;
+}
+
+.coffeehouse {
+    font-style: italic;
+}
+
+footer {
+    background-color: #AFAEB4;
+    font-size: .60em;
+    font-style: italic;
+    text-align: center;
+}
